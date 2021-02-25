@@ -19,7 +19,7 @@ Downloading data from `20-12-2020` to `02-01-2021`
 ```python
 r = DataManager("20-12-2020", "02-01-2021")
 r.connect()
-r.get("./data_folder)
+r.get("./data_folder")
 r.close()
 ```
 
