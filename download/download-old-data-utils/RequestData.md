@@ -4,7 +4,7 @@
 
 class for downloading data from online form
 
-__Parameters:__
+### Parameters
 
 __i_date__
 > date `str` formated as `dd-mm-yyy` marking the begining of the range of data to download we are interested on
@@ -24,7 +24,7 @@ r.get()
 saving the data to a file in a path
 
 ```python
-r.save_csv("./data_folder", "data.csv)
+r.save_csv("./data_folder", "data.csv")
 ```
 
 ### Attributes
