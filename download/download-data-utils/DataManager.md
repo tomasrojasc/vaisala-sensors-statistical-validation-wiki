@@ -4,6 +4,11 @@
 
 class for downloading data from sftp server
 
+__Important:__
+
+In order for this to work you will need to create a `config` file in `download/config.py`. To read more about this, click [here](download/config)
+
+
 ### Parameters
 
 __i_date__
