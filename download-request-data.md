@@ -5,6 +5,7 @@
 class for downloading data from online form
 
 __Parameters:__
+
 __i_date__
 > date `str` formated as `dd-mm-yyy` marking the begining of the range of data to download we are interested on
 
