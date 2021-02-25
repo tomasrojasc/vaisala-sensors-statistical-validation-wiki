@@ -1,7 +1,8 @@
 # Download old data module
 
-The most important part of this module is the `RequestData` objet who is in charge of making requests.
-This object is based on the `requests` library.
+In the `download` module we can find two important files
 
-## Classes
-[RequestData](download-request-data)
+* [`download_data_utils.py`](download-module-download-data-utils-py)
+* [`download_old_data_utils.py`](download-module-download-old-data-utils-py)
+
+

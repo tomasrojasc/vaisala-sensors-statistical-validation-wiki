@@ -4,7 +4,7 @@ In this page we are going to talk about how the bash file works and what to expe
 
 When you execute the bash file `update_data.sh` you are basically running the following scripts in the following order
 
-* [`download_old_data.py`](download/dowload-old-data-py)
+* [`download_old_data.py`](dowload-old-data-py)
 * `download_data.py`
 * `data_processing.py`
 * `make_csvs.py`
