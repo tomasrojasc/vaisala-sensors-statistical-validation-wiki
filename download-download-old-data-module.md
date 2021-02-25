@@ -6,6 +6,7 @@ This object is based on the `requests` library
 ## RequestData
 
 __class RequestData(i_date, f_date)__
+
 class for downloading data from online form
 
 __Parameters:__
