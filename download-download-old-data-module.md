@@ -53,7 +53,7 @@ __csv__
 __get()__ 
 > This method is in charge of actually making the request and saing the response in the __csv__ attribute
 
-__save_csv(path, name)___
+__save_csv(path, name)__
 > method to save the csv file with tha given name in the given path
 
 
